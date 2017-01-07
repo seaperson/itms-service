@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://doudou.ids111.com:85/douyou.ipa</string>
+                        <string>https://github.com/seaperson/itms-service/edit/master/itms/douyou.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://doudou.ids111.com:85/img/test.png</string>
+                        <string>https://github.com/seaperson/itms-service/edit/master/itms/test.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://doudou.ids111.com:85/img/test.png</string>
+                        <string>https://github.com/seaperson/itms-service/edit/master/itms/test.png</string>
                     </dict>
                 </array><key>metadata</key>
                 <dict>
